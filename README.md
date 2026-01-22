@@ -1,7 +1,7 @@
-# 🚀 Bridging Data Engineering & Strategic Insights
+# 📊 Advancing Strategic Analytics & Data Engineering Solutions  
 
 ## 👤 About Me
-A **Data Science** Graduate from **Bina Nusantara University (2025)** specializing in the end-to-end data lifecycle. I am dedicated to building scalable data architectures (**Engineering**) and translating complex datasets into high-impact business strategies (**Analysis**).
+A **Data Science** Graduate specializing in the end-to-end data lifecycle. I am dedicated to translating complex datasets into high-impact business strategies (**Analysis**) and building scalable data architectures (**Engineering**).
 
 - 🎓 **Latest Milestone:** Graduated with a Bachelor's in Data Science, specializing in NLP-based recommendation systems.
 - 💼 **Professional Background:** 1-Year Internship at Idemia Labs Indonesia & Alumnus of Hacktiv8 Comprehensive Data Analytics.
@@ -51,7 +51,7 @@ A **Data Science** Graduate from **Bina Nusantara University (2025)** specializi
     * End-to-end extraction pipeline using **Selenium** to handle dynamic JavaScript-rendered content for market competitor research.
       
 ### 🔬 [Data Science]
-* **[Perfume Recommender Jaccard](https://github.com/rainaimtiyaz/perfume_recommender_jaccard)**
+* **[Perfume Recommender](https://github.com/rainaimtiyaz/perfume_recommender_jaccard)**
     * *Undergraduate Thesis:* Personalized Perfume Recommendations Based on User Descriptions Using Cosine and Jaccard Similarity.
     * **Impact:** Achieved **Recall@3 of 0.8889** and **nDCG@3 of 0.8978**, which means the system is able to find almost all relevant items and display them at the top of the list.
 * **[BCG Strategic Churn Analysis](https://github.com/rainaimtiyaz/bcg-forage)**
