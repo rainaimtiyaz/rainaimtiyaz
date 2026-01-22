@@ -37,7 +37,7 @@ A **Data Science** Graduate specializing in the end-to-end data lifecycle. I am 
 
 ## 🌟 Featured Portfolio
 
-### 📊 [Data-Driven Policy]
+### 📊 [Data Analysis]
 * **[WFP Global Food Prices 2025](https://github.com/rainaimtiyaz/wfp-2025)**
     * Strategic analysis of global commodity dynamics. Conducted deep-dive **EDA** and built interactive **Tableau Dashboards** to visualize market trends.
     * **Impact:** Identified key price drivers and currency devaluations to support efficient operational stocking decisions.
