@@ -1,9 +1,5 @@
 # 🚀 Bridging Data Engineering & Strategic Insights
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00599C&height=220&section=header&text=Raina%20Imtiyaz&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-</div>
-
 ## 👤 About Me
 A **Data Science** Graduate from **Bina Nusantara University (2025)** specializing in the end-to-end data lifecycle. I am dedicated to building scalable data architectures (**Engineering**) and translating complex datasets into high-impact business strategies (**Analysis**).
 
